@@ -1,86 +1,86 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Manolo VM CV
+title: Manolo Vasquez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Manolo Vasquez
+BS Data Science student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alexander.21.01.2004@gmail.com">alexander.21.01.2004@gmail.com</a>
+| <a href="https://www.linkedin.com/in/manolo-vasquez-mendoza/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a motivated Data Science student with hands-on experience in Python, SQL, Excel, and Tableau. Skilled in data cleaning, visualization, and basic machine learning techniques. Passionate about uncovering insights from data and communicating findings clearly to drive informed decisions. Eager to apply analytical and problem-solving skills in real-world projects
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+-Data cleaning
+-Data Analysis
+-Data visualization
+-Python
+-SQL
+-Maxchine Learning
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2025 - Now`
+__Brigham Young University - Idaho.__
+- Bachelor of Science in Data Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2024-2025`
+__BYU Pathway Worldwide__
+- Cerfiticate in Web and Computer Programming
 
 
+## Certifications
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2025`
+Web and Computer Programming, Brigham Young University - Idaho
 
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Work Experience
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+`Teacher / Trainer`
+__Missionary Training Center__ sept. 2024 - mar. 2025
+Lima, Perú
 
-- Warden
-- Minted coins
+-Supervised , teach and counsel new young missionaries, improving missionary’s skills by 20% each week using evaluations data with Tableau.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+-Using Excel and Tableau, identifying key skill gaps. Developed and delivered targeted instruction to address those gaps, resulting in measurable improvements in individual progress and overall group effectiveness.
+
+
+`Full-Time Missionary`
+__La Iglesia de Jesucristo de los Santos de los Ultimos Dias__  abr. 2022 - may. 2024
+Cusco, Cusco, Perú
+
+-Led small and medium-sized groups and delivered training on teaching skills and doctrinal understanding, achieving a 20% improvement in performance
+
+-Conducted research and tracked performance data to identify key trends and improvement opportunities, providing actionable insights for decision-making
+
+-Strengthened communication and leadership skills through collaboration, team coordination, and public presentations, enhancing group engagement and performance.
+
+-Trained more than 30 volunteers in prospecting, networking, communication, and leadership, who went on to become leaders in organization
+
+-Develop efficient communication skills, speaking to over 100 visitors per day
+
+-Used diverse selling methods such as Public Contacting, Social Media and Door knocking which increased the monthly new-membership.
+
+
+`Product Analyst`
+__Importadora MMASH SAC__ abr. 2021 - abr. 2022
+Lima, Perú
+
+-Executed in-depth market research and validated supplier information, enhancing sourcing accuracy and supporting data-driven purchasing decisions that improved cost and earning efficiency by 10%
+
+-Optimized Excel-based pricing and product databases and conducted in-depth competitive analysis, driving data-informed decisions that cut costs and production time by 8%.
 
 
 
